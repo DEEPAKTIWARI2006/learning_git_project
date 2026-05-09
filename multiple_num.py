@@ -1,5 +1,5 @@
 # Define the numbers
-num1 = 5
+num1 = 50
 num2 = 10
 
 # Calculate the sum
