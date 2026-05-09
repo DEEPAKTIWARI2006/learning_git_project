@@ -1,0 +1,15 @@
+*.txt
+.vscode/
+/chromadb_store/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.DS_Store
+.idea/
+*.iml
+venv/
+env/
+logs/
+
